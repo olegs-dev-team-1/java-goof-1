@@ -1,2 +1,4 @@
 schema: 2
 orgName: testcopy
+tags:
+  team: cse
